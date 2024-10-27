@@ -2,6 +2,7 @@ body {
   display: flex;
   justify-content: center;
   background-image: url(./assets/1600w-99v34p26kG0.webp);
+  width: 100%;
 }
 .container {
   display: flex;
